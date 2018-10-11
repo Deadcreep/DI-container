@@ -1,0 +1,10 @@
+D:\project\CSU\Software Ingeneering\Task.IoC\IocExample\obj\Debug\IocExample.csprojResolveAssemblyReference.cache
+D:\project\CSU\Software Ingeneering\Task.IoC\IocExample\obj\Debug\IocExample.csproj.CoreCompileInputs.cache
+D:\project\CSU\Software Ingeneering\Task.IoC\IocExample\bin\Debug\IocExample.exe.config
+D:\project\CSU\Software Ingeneering\Task.IoC\IocExample\bin\Debug\IocExample.exe
+D:\project\CSU\Software Ingeneering\Task.IoC\IocExample\bin\Debug\IocExample.pdb
+D:\project\CSU\Software Ingeneering\Task.IoC\IocExample\bin\Debug\Ninject.dll
+D:\project\CSU\Software Ingeneering\Task.IoC\IocExample\bin\Debug\Ninject.xml
+D:\project\CSU\Software Ingeneering\Task.IoC\IocExample\obj\Debug\IocExample.csproj.CopyComplete
+D:\project\CSU\Software Ingeneering\Task.IoC\IocExample\obj\Debug\IocExample.exe
+D:\project\CSU\Software Ingeneering\Task.IoC\IocExample\obj\Debug\IocExample.pdb
